@@ -3,4 +3,6 @@ project(A1_Candados)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(A1_Candados main.cpp)
+add_executable(A1_Candados main.cpp
+        Candado.cpp
+        Candado.h)
