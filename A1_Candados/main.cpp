@@ -10,7 +10,18 @@ int main() {
     Candado c= Candado();
     cout << "Ingrese la clave del candado: ";
     cin >> clave;
-    c.abrir(clave);
+
+    for (int i = 0; i < 9999; i++) {
+        c.abrir(i);
+        if (c.abierto) {
+            cout << "La clave correcta es: " << i << endl;
+            break;
+        }
+    }
+
+
+
+ //   c.abrir(clave);
     c.imprimir();
     return 0;
 
