@@ -3,4 +3,6 @@ project(A2_Manzana)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(A2_Manzana main.cpp)
+add_executable(A2_Manzana main.cpp
+        Manzana.cpp
+        Manzana.h)
