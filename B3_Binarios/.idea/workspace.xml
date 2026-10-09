@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7863dc0e-c47b-4fbd-a073-1217644f916f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="2.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3KRbeCEhVPW4lxepsnD6LXomG4p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Volumes/DATAEX/REPOSITORIOS/PO_UTEC/PO_UTEC_Semana09/B3_Binarios/main.cpp",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [],
+  "modificationCount": 1
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7863dc0e-c47b-4fbd-a073-1217644f916f" name="Changes" comment="" />
+      <created>1791523421185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791523421185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
