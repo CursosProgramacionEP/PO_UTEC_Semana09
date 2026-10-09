@@ -3,4 +3,6 @@ project(B3_Binarios)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(B3_Binarios main.cpp)
+add_executable(B3_Binarios main.cpp
+        NumeroBinario.cpp
+        NumeroBinario.h)
